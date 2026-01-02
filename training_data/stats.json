@@ -1,0 +1,12 @@
+{
+  "total_samples": 22239,
+  "train_samples": 20015,
+  "val_samples": 2224,
+  "by_type": {
+    "field_label": 5648,
+    "help_text": 916,
+    "selection": 433,
+    "general": 12185,
+    "augmented": 3057
+  }
+}
